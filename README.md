@@ -1,10 +1,11 @@
+
 # 🍕 Pizza Studio
 
 A Windows Forms app (C# / .NET) where you build your own pizza and see the order summary and price update live.
 
 Part of **Course 14** of Dr. Mohammed Abu-Hadhoud's roadmap (.NET with C#). I redesigned the interface with my own visual identity.
 
-![Screenshot](screenshots/main.png)
+<img width="400" height="250" alt="Screenshot 2026-10-15 030633" src="https://github.com/user-attachments/assets/24631a58-1ab5-4a87-bc70-07d4a2ff9335" />
 
 ## Features
 
